@@ -1,1 +1,1 @@
-# paper_and_course_report
+Paper and course report
